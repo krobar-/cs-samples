@@ -1,4 +1,4 @@
-# C-Sharp Code Samples
+# C# Code Samples
 
 This repository contains a collection of C# code samples showcasing integration and functionality with external services and databases. Each sample demonstrates a different capability, from interacting with APIs to database management.
 
